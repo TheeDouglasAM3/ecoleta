@@ -16,12 +16,16 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",
+    "npm": "^6.12.1",
+    "sequelize": "^6.1.0",
     "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.6",
+    "jest": "^26.1.0",
+    "sequelize-cli": "^6.0.0",
     "ts-node": "^8.10.2",
-    "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.9.3"
+    "ts-node-dev": "^1.0.0-pre.49",
+    "typescript": "^3.9.5"
   }
 }
